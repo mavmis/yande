@@ -1,0 +1,18 @@
+{
+    "modelUri": "gpt://b1gu0br2ila8ku5h161k/yandexgpt",
+    "completionOptions": {
+      "stream": false,
+      "temperature": 0,
+      "maxTokens": "1000"
+    },
+    "messages": [
+      {
+        "role": "system",
+        "text": "Пересказ сказки рыбак и рыбка"
+      },
+      {
+        "role": "user",
+        "text": "Мораль, ценности всей сказки"
+      }
+    ]
+  }
